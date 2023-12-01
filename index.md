@@ -1,4 +1,4 @@
-coming soon
+AE-AMT
 
 <!-- ### Summary of the compared models -->
 
@@ -6,11 +6,10 @@ coming soon
 
 
 
-
 <table>
   <thead>
     <tr>
-      <th style="text-align: center">&nbsp;&nbsp;</th>
+      <th style="text-align: center">&nbsp;</th>
       <th style="text-align: center">Q1</th>
       <th style="text-align: center">Q2</th>
       <th style="text-align: center">Q3</th>
@@ -60,13 +59,7 @@ coming soon
       <td style="text-align: center"><audio src="assets\audio\unselected\AE-AMTsoft/Q3_iedtxshhbv.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
       <td style="text-align: center"><audio src="assets\audio\unselected\AE-AMTsoft/Q4_efkotblape.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
     </tr>
-    <!-- <tr>
-      <td style="text-align: center;width:200px;">LSTM+GA</td>
-      <td style="text-align: center"><audio src="assets\audio\unselected\mlstm/Q1_bzxgrdnkls.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
-      <td style="text-align: center"><audio src="assets\audio\unselected\mlstm/Q2_kctqmwrakg.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
-      <td style="text-align: center"><audio src="assets\audio\unselected\mlstm/Q3_ftgzcccwem.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
-      <td style="text-align: center"><audio src="assets\audio\unselected\mlstm/Q4_fekellzrrp.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
-    </tr> -->
   </tbody>
 </table>
+
 
