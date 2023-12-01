@@ -1,6 +1,6 @@
 coming soon
 
-### Summary of the compared models
+<!-- ### Summary of the compared models -->
 
 ### unselected examples
 
@@ -40,13 +40,6 @@ coming soon
       <td style="text-align: center"><audio src="assets\audio\unselected\AE-AMT/Q4_brqgsrefkq.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
     </tr>
     <tr>
-      <td style="text-align: center">AE-AMT</td>
-      <td style="text-align: center"><audio src="assets\audio\unselected\AE-AMT/Q1_hfzwqobrhd.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
-      <td style="text-align: center"><audio src="assets\audio\unselected\AE-AMT/Q2_ccccndxxlz.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
-      <td style="text-align: center"><audio src="assets\audio\unselected\AE-AMT/Q3_lmsbtevoll.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
-      <td style="text-align: center"><audio src="assets\audio\unselected\AE-AMT/Q4_brqgsrefkq.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
-    </tr>
-    <tr>
       <td style="text-align: center">AE-AMT<sub>w/o emo</sub></td>
       <td style="text-align: center"><audio src="assets\audio\unselected\AE-AMTattr/Q1_kntqdmsgib.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
       <td style="text-align: center"><audio src="assets\audio\unselected\AE-AMTattr/Q2_isbyyfpquo.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
@@ -61,7 +54,7 @@ coming soon
       <td style="text-align: center"><audio src="assets\audio\unselected\AE-AMTemo/Q4_purwufrfpj.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
     </tr>
     <tr>
-      <td style="text-align: center">AE-AMT<sub>sofr</sub></td>
+      <td style="text-align: center">AE-AMT<sub>soft</sub></td>
       <td style="text-align: center"><audio src="assets\audio\unselected\AE-AMTsoft/Q1_dxjqjvnkmw.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
       <td style="text-align: center"><audio src="assets\audio\unselected\AE-AMTsoft/Q2_jundebbjpd.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
       <td style="text-align: center"><audio src="assets\audio\unselected\AE-AMTsoft/Q3_ljfgkypghe.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
