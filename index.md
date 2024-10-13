@@ -27,7 +27,7 @@
       <td style="text-align: center"><audio src="assets\audio\unselected\ground_truth_emopia/Q4_6kRPHamGDSo_2.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
     </tr>
     <tr>
-      <td style="text-align: center">CPT</td>
+      <td style="text-align: center">Emo-CPT</td>
       <td style="text-align: center"><audio src="assets\audio\unselected\baseline/Q1_dzszblrnvl.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
       <td style="text-align: center"><audio src="assets\audio\unselected\baseline/Q2_iachvssayv.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
       <td style="text-align: center"><audio src="assets\audio\unselected\baseline/Q3_diyiwogtjw.mp3" style="width:220px;" type="audio/mpeg" controls="" controlslist="nodownload noplaybackrate"></audio></td>
