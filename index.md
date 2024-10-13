@@ -4,9 +4,6 @@
 
 # AE-AMT
 
-### cherry pick examples
-Coming soon
-
 ### unselected examples
 
 <table>
